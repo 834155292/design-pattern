@@ -1,6 +1,6 @@
-package com.zboy.example.creational.factory.method.example01;
+package com.zboy.example.creational.factorymethod.example01;
 
-public class Client {
+public class Test {
     public static void main(String[] args) {
         ShapeFactory shapeFactory = new ShapeFactory();
 

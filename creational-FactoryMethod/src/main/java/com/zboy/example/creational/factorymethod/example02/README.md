@@ -1,0 +1,4 @@
+本次案例有一个工厂接口Factory，其有2个实现类FactoryImpl01、FactoryImpl02，分别生产产品ProductImpl01和ProductImpl02。
+
+App表示一个应用，该应用会通过工厂获取一个Product的实例，并且对其进行处理。但是这个应用并不清楚会通过具体哪一个工厂来获取产品，
+因为其只依赖与Factory接口。

@@ -1,4 +1,4 @@
-package com.zboy.example.creational.factory.method.example01;
+package com.zboy.example.creational.factorymethod.example01;
 
 public class Square implements Shape {
     public void draw() {

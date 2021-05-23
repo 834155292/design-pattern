@@ -1,4 +1,4 @@
-package com.zboy.example.creational.factory.method.example01;
+package com.zboy.example.creational.factorymethod.example01;
 
 public class Rectangle implements Shape{
     public void draw() {
