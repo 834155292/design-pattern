@@ -11,6 +11,7 @@
     <modules>
         <module>creational-FactoryMethod</module>
         <module>creational-AbstractFactory</module>
+        <module>Structural-Adapter</module>
     </modules>
 
 

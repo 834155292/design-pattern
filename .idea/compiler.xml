@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="creational-AbstractFactory" />
         <module name="creational-FactoryMethod" />
+        <module name="Structural-Adapter" />
         <module name="Structural-Facade" />
       </profile>
     </annotationProcessing>
