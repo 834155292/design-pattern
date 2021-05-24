@@ -9,9 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>creational-FactoryMethod</module>
-        <module>creational-AbstractFactory</module>
+        <module>Creational-FactoryMethod</module>
+        <module>Creational-AbstractFactory</module>
         <module>Structural-Adapter</module>
+        <module>Structural-Facade</module>
+        <module>Behavioral-Strategy</module>
     </modules>
 
 
