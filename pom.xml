@@ -15,6 +15,7 @@
         <module>Structural-Facade</module>
         <module>Behavioral-Strategy</module>
         <module>Structural-Decorator</module>
+        <module>Behavioral-Visitor</module>
     </modules>
     <build>
         <plugins>

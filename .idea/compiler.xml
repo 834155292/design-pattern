@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Behavioral-Strategy" />
+        <module name="Behavioral-Visitor" />
         <module name="Creational-AbstractFactory" />
         <module name="Creational-FactoryMethod" />
         <module name="Structural-Adapter" />
