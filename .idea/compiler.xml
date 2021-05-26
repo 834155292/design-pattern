@@ -10,8 +10,10 @@
         <module name="Creational-AbstractFactory" />
         <module name="Creational-FactoryMethod" />
         <module name="Structural-Adapter" />
+        <module name="Structural-Decorator" />
         <module name="Structural-Facade" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
