@@ -7,11 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Behavioral-Strategy" />
+        <module name="Behavioral-Visitor" />
         <module name="Creational-AbstractFactory" />
         <module name="Creational-FactoryMethod" />
         <module name="Structural-Adapter" />
+        <module name="Structural-Decorator" />
         <module name="Structural-Facade" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
