@@ -17,6 +17,7 @@
         <module>Structural-Decorator</module>
         <module>Behavioral-Visitor</module>
         <module>Behavioral-Command</module>
+        <module>Behavioral-TemplateMethod</module>
     </modules>
     <build>
         <plugins>

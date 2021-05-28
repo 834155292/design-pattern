@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Behavioral-Command" />
         <module name="Behavioral-Strategy" />
+        <module name="Behavioral-TemplateMethod" />
         <module name="Behavioral-Visitor" />
         <module name="Creational-AbstractFactory" />
         <module name="Creational-FactoryMethod" />
