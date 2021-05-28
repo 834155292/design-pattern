@@ -18,6 +18,7 @@
         <module>Behavioral-Visitor</module>
         <module>Behavioral-Command</module>
         <module>Behavioral-TemplateMethod</module>
+        <module>Behavioral-ChainOfResponsibility</module>
     </modules>
     <build>
         <plugins>
