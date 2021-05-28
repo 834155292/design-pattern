@@ -9,7 +9,10 @@ java设计模式收集
 
 模块说明：
 
+- Behavioral-ChainOfResponsibility：责任链模式
+- Behavioral-Command：命令模式
 - Behavioral-Strategy：策略模式
+- Behavioral-TemplateMethod：模板方法模式
 - Behavioral-Visitor：访问者模式
 - Creational-AbstractFactory：抽象工厂模式
 - Creational-FactoryMethod：工厂方法模式
