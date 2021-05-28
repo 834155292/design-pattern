@@ -16,6 +16,7 @@
         <module>Behavioral-Strategy</module>
         <module>Structural-Decorator</module>
         <module>Behavioral-Visitor</module>
+        <module>Behavioral-Command</module>
     </modules>
     <build>
         <plugins>
