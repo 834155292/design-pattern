@@ -15,6 +15,7 @@ java设计模式收集
 - Behavioral-TemplateMethod：模板方法模式
 - Behavioral-Visitor：访问者模式
 - Creational-AbstractFactory：抽象工厂模式
+- Creational-Builder：构建者模式
 - Creational-FactoryMethod：工厂方法模式
 - Structural-Adapter：适配器模式
 - Structural-Decorator：装饰器模式
