@@ -12,6 +12,7 @@
         <module name="Behavioral-TemplateMethod" />
         <module name="Behavioral-Visitor" />
         <module name="Creational-AbstractFactory" />
+        <module name="Creational-Builder" />
         <module name="Creational-FactoryMethod" />
         <module name="Structural-Adapter" />
         <module name="Structural-Decorator" />

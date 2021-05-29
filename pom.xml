@@ -19,6 +19,7 @@
         <module>Behavioral-Command</module>
         <module>Behavioral-TemplateMethod</module>
         <module>Behavioral-ChainOfResponsibility</module>
+        <module>Creational-Builder</module>
     </modules>
     <build>
         <plugins>
