@@ -18,5 +18,6 @@ java设计模式收集
 - Creational-Builder：构建者模式
 - Creational-FactoryMethod：工厂方法模式
 - Structural-Adapter：适配器模式
+- Structural-Bridge：桥接模式
 - Structural-Decorator：装饰器模式
 - Structural-Facade：门面模式
