@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.zboy.example.structural.bridge.example03.BlueColor</OriginalElement>
+  <nodes>
+    <node x="10.500000000000028" y="89.0">com.zboy.example.structural.bridge.example03.BlueColor</node>
+    <node x="65.73958333333336" y="168.0">com.zboy.example.structural.bridge.example03.Circle</node>
+    <node x="134.5" y="89.0">com.zboy.example.structural.bridge.example03.Shape</node>
+    <node x="137.00000000000006" y="0.0">com.zboy.example.structural.bridge.example03.Color</node>
+    <node x="238.50000000000003" y="89.0">com.zboy.example.structural.bridge.example03.RedColor</node>
+    <node x="202.92708333333337" y="168.0">com.zboy.example.structural.bridge.example03.Square</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.zboy.example.structural.bridge.example03.Shape" target="com.zboy.example.structural.bridge.example03.Color">
+      <point x="21.0" y="-14.5" />
+      <point x="197.5" y="69.0" />
+      <point x="183.08333333333337" y="69.0" />
+      <point x="6.583333333333314" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example03.Circle" target="com.zboy.example.structural.bridge.example03.Color">
+      <point x="-27.333333333333314" y="-14.5" />
+      <point x="79.40625000000004" y="148.0" />
+      <point x="0.0" y="148.0" />
+      <point x="0.0" y="49.0" />
+      <point x="143.58333333333337" y="49.0" />
+      <point x="-32.91666666666666" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example03.Square" target="com.zboy.example.structural.bridge.example03.Color">
+      <point x="29.666666666666657" y="-14.5" />
+      <point x="277.09375" y="148.0" />
+      <point x="350.0" y="148.0" />
+      <point x="350.0" y="49.0" />
+      <point x="209.41666666666669" y="49.0" />
+      <point x="32.91666666666666" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example03.Square" target="com.zboy.example.structural.bridge.example03.Shape">
+      <point x="-29.66666666666667" y="-14.5" />
+      <point x="217.76041666666669" y="148.0" />
+      <point x="187.0" y="148.0" />
+      <point x="10.5" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example03.BlueColor" target="com.zboy.example.structural.bridge.example03.Color">
+      <point x="0.0" y="-14.5" />
+      <point x="62.50000000000003" y="59.0" />
+      <point x="156.75000000000006" y="59.0" />
+      <point x="-19.75" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example03.RedColor" target="com.zboy.example.structural.bridge.example03.Color">
+      <point x="0.0" y="-14.5" />
+      <point x="289.0" y="59.0" />
+      <point x="196.25000000000006" y="59.0" />
+      <point x="19.75" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example03.Circle" target="com.zboy.example.structural.bridge.example03.Shape">
+      <point x="27.333333333333314" y="-14.5" />
+      <point x="134.07291666666669" y="148.0" />
+      <point x="166.0" y="148.0" />
+      <point x="-10.5" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="112.5" y="156.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
