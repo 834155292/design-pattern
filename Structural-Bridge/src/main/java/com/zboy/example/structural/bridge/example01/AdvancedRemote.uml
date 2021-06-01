@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.zboy.example.structural.bridge.example01.AdvancedRemote</OriginalElement>
+  <nodes>
+    <node x="13.0" y="79.0">com.zboy.example.structural.bridge.example01.BasicRemote</node>
+    <node x="293.0" y="79.0">com.zboy.example.structural.bridge.example01.Tv</node>
+    <node x="0.0" y="158.0">com.zboy.example.structural.bridge.example01.AdvancedRemote</node>
+    <node x="28.5" y="0.0">com.zboy.example.structural.bridge.example01.Remote</node>
+    <node x="234.75" y="0.0">com.zboy.example.structural.bridge.example01.Device</node>
+    <node x="193.0" y="79.0">com.zboy.example.structural.bridge.example01.Radio</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.zboy.example.structural.bridge.example01.Tv" target="com.zboy.example.structural.bridge.example01.Device">
+      <point x="0.0" y="-14.5" />
+      <point x="324.5" y="54.0" />
+      <point x="300.75" y="54.0" />
+      <point x="22.0" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example01.Radio" target="com.zboy.example.structural.bridge.example01.Device">
+      <point x="0.0" y="-14.5" />
+      <point x="233.0" y="54.0" />
+      <point x="256.75" y="54.0" />
+      <point x="-22.0" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example01.BasicRemote" target="com.zboy.example.structural.bridge.example01.Remote">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example01.AdvancedRemote" target="com.zboy.example.structural.bridge.example01.BasicRemote">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="141.0" y="170.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
