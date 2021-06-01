@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.zboy.example.structural.bridge.example02.Coffee</OriginalElement>
+  <nodes>
+    <node x="453.5" y="122.5">com.zboy.example.structural.bridge.example02.Milk</node>
+    <node x="148.28749999999997" y="235.0">com.zboy.example.structural.bridge.example02.RefinedCoffee</node>
+    <node x="242.26666666666665" y="0.0">com.zboy.example.structural.bridge.example02.ICoffeeAdditives</node>
+    <node x="11.5" y="-111.5">com.zboy.example.structural.bridge.example02.Sugar</node>
+    <node x="253.625" y="336.0">com.zboy.example.structural.bridge.example02.LargeCoffee</node>
+    <node x="217.5" y="111.0">com.zboy.example.structural.bridge.example02.Coffee</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.zboy.example.structural.bridge.example02.RefinedCoffee" target="com.zboy.example.structural.bridge.example02.Coffee">
+      <point x="60.33333333333334" y="-25.5" />
+      <point x="299.1208333333333" y="210.0" />
+      <point x="325.5" y="210.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example02.LargeCoffee" target="com.zboy.example.structural.bridge.example02.ICoffeeAdditives">
+      <point x="70.875" y="-25.5" />
+      <point x="419.0" y="311.0" />
+      <point x="651.0" y="311.0" />
+      <point x="651.0" y="71.0" />
+      <point x="413.68333333333334" y="71.0" />
+      <point x="77.91666666666669" y="25.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example02.LargeCoffee" target="com.zboy.example.structural.bridge.example02.RefinedCoffee">
+      <point x="-70.875" y="-25.5" />
+      <point x="277.25" y="311.0" />
+      <point x="193.53749999999997" y="311.0" />
+      <point x="-45.25" y="25.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example02.Coffee" target="com.zboy.example.structural.bridge.example02.ICoffeeAdditives">
+      <point x="-54.0" y="-37.0" />
+      <point x="271.5" y="91.0" />
+      <point x="320.18333333333334" y="91.0" />
+      <point x="-15.583333333333314" y="25.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example02.Sugar" target="com.zboy.example.structural.bridge.example02.ICoffeeAdditives">
+      <point x="0.0" y="-25.5" />
+      <point x="104.0" y="81.0" />
+      <point x="289.01666666666665" y="81.0" />
+      <point x="-46.75" y="25.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example02.Milk" target="com.zboy.example.structural.bridge.example02.ICoffeeAdditives">
+      <point x="0.0" y="-25.5" />
+      <point x="547.0" y="81.0" />
+      <point x="382.5166666666667" y="81.0" />
+      <point x="46.75000000000006" y="25.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example02.RefinedCoffee" target="com.zboy.example.structural.bridge.example02.ICoffeeAdditives">
+      <point x="-60.333333333333314" y="-25.5" />
+      <point x="178.45416666666665" y="210.0" />
+      <point x="0.0" y="210.0" />
+      <point x="0.0" y="71.0" />
+      <point x="257.84999999999997" y="71.0" />
+      <point x="-77.91666666666669" y="25.5" />
+    </edge>
+    <edge source="com.zboy.example.structural.bridge.example02.LargeCoffee" target="com.zboy.example.structural.bridge.example02.Coffee">
+      <point x="23.625" y="-25.5" />
+      <point x="371.75" y="311.0" />
+      <point x="376.0" y="311.0" />
+      <point x="376.0" y="210.0" />
+      <point x="397.5" y="210.0" />
+      <point x="72.0" y="37.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="325.5" y="193.5" />
+  <SelectedNodes>
+    <node>com.zboy.example.structural.bridge.example02.Sugar</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
