@@ -16,6 +16,7 @@
         <module name="Creational-FactoryMethod" />
         <module name="Structural-Adapter" />
         <module name="Structural-Bridge" />
+        <module name="Structural-Composite" />
         <module name="Structural-Decorator" />
         <module name="Structural-Facade" />
       </profile>
