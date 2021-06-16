@@ -20,6 +20,7 @@
         <module name="Structural-Decorator" />
         <module name="Structural-Facade" />
         <module name="Structural-Flyweight" />
+        <module name="Structural-Proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

@@ -27,3 +27,4 @@ java设计模式收集
 - Structural-Decorator：装饰器模式
 - Structural-Facade：门面模式
 - Structural-Flyweight：享元模式
+- Structural-Proxy：代理模式

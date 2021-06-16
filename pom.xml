@@ -23,6 +23,7 @@
         <module>Structural-Bridge</module>
         <module>Structural-Composite</module>
         <module>Structural-Flyweight</module>
+        <module>Structural-Proxy</module>
     </modules>
     <build>
         <plugins>
