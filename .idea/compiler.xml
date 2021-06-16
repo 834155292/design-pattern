@@ -19,6 +19,7 @@
         <module name="Structural-Composite" />
         <module name="Structural-Decorator" />
         <module name="Structural-Facade" />
+        <module name="Structural-Flyweight" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

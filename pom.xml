@@ -22,6 +22,7 @@
         <module>Creational-Builder</module>
         <module>Structural-Bridge</module>
         <module>Structural-Composite</module>
+        <module>Structural-Flyweight</module>
     </modules>
     <build>
         <plugins>
