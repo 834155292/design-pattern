@@ -24,6 +24,7 @@
         <module>Structural-Composite</module>
         <module>Structural-Flyweight</module>
         <module>Structural-Proxy</module>
+        <module>Behavioral-Observer</module>
     </modules>
     <build>
         <plugins>

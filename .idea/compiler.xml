@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Behavioral-ChainOfResponsibility" />
         <module name="Behavioral-Command" />
+        <module name="Behavioral-Observer" />
         <module name="Behavioral-Strategy" />
         <module name="Behavioral-TemplateMethod" />
         <module name="Behavioral-Visitor" />

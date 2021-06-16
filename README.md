@@ -11,6 +11,7 @@ java设计模式收集
 
 - Behavioral-ChainOfResponsibility：责任链模式
 - Behavioral-Command：命令模式
+- Behavioral-Observer：观察者模式
 - Behavioral-Strategy：策略模式
 - Behavioral-TemplateMethod：模板方法模式
 - Behavioral-Visitor：访问者模式
