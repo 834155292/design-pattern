@@ -26,6 +26,7 @@
         <module>Structural-Proxy</module>
         <module>Behavioral-Observer</module>
         <module>Behavioral-Iterator</module>
+        <module>Behavioral-Mediator</module>
     </modules>
     <build>
         <plugins>
