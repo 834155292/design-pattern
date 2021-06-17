@@ -25,6 +25,7 @@
         <module>Structural-Flyweight</module>
         <module>Structural-Proxy</module>
         <module>Behavioral-Observer</module>
+        <module>Behavioral-Iterator</module>
     </modules>
     <build>
         <plugins>
