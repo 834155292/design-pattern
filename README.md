@@ -13,6 +13,7 @@ java设计模式收集
 - Behavioral-Command：命令模式
 - Behavioral-Iterator：迭代器模式
 - Behavioral-Mediator：中介者模式
+- Behavioral-Memento：备忘录模式
 - Behavioral-Observer：观察者模式
 - Behavioral-Strategy：策略模式
 - Behavioral-TemplateMethod：模板方法模式

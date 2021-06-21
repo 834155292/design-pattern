@@ -28,6 +28,7 @@
         <module>Behavioral-Iterator</module>
         <module>Behavioral-Mediator</module>
         <module>Creational-Singleton</module>
+        <module>Behavioral-Memento</module>
     </modules>
     <build>
         <plugins>

@@ -10,6 +10,7 @@
         <module name="Behavioral-Command" />
         <module name="Behavioral-Iterator" />
         <module name="Behavioral-Mediator" />
+        <module name="Behavioral-Memento" />
         <module name="Behavioral-Observer" />
         <module name="Behavioral-Strategy" />
         <module name="Behavioral-TemplateMethod" />
