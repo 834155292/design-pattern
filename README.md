@@ -22,6 +22,7 @@ java设计模式收集
 - Creational-AbstractFactory：抽象工厂模式
 - Creational-Builder：构建者模式
 - Creational-FactoryMethod：工厂方法模式
+- Creational-Prototype：原型模式
 - Creational-Singleton：单例模式
 
 
