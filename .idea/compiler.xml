@@ -12,6 +12,7 @@
         <module name="Behavioral-Mediator" />
         <module name="Behavioral-Memento" />
         <module name="Behavioral-Observer" />
+        <module name="Behavioral-State" />
         <module name="Behavioral-Strategy" />
         <module name="Behavioral-TemplateMethod" />
         <module name="Behavioral-Visitor" />
