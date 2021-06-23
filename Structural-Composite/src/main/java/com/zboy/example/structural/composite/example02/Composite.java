@@ -7,8 +7,12 @@ public class Composite implements Component {
     private List<Component> list = new ArrayList<>();
 
     @Override
-    public void execute() {
-
+    public int getNumber() {
+        int i = 0;
+        for (Component component : list) {
+            i = i + component.getNumber();
+        }
+        return i;
     }
 
     void add(Component component) {
