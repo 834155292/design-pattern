@@ -9,9 +9,9 @@ public class Test {
         Visitor americanVisitor = new AmericanVisitor();
 
         bronze.accept(chineseVisitor);
-        bronze.accept(americanVisitor);
-        System.out.println("---------------------");
         porcelain.accept(chineseVisitor);
+        System.out.println("---------------------");
+        bronze.accept(americanVisitor);
         porcelain.accept(americanVisitor);
 
     }
